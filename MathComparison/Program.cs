@@ -6,6 +6,7 @@ namespace MathComparison
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Anonymous Income Comparison Program");
             Console.WriteLine("Person1:");
             Console.WriteLine("Hourly Rate: $15");
             Console.WriteLine("Hours worked:40");
